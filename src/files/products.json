@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Pulsera",
+    "description": "pulsera de plata 925",
+    "code": "abs526",
+    "price": 9500,
+    "status": true,
+    "stock": 8,
+    "category": "pulsera",
+    "thumbnails": "https://cdnx.jumpseller.com/crislu-cl/image/24204352/69__1_copia.jpg?1665159261",
+    "id": 1
+  },
+  {
+    "title": "Aros Luna",
+    "description": "aros de plata 925",
+    "code": "def159",
+    "price": 8500,
+    "status": true,
+    "stock": 20,
+    "category": "aros",
+    "thumbnails": "https://cdn.shopify.com/s/files/1/0276/8155/4565/products/FAW181.jpg?v=1675110296",
+    "id": 2
+  }
+]
